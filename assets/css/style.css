@@ -1,0 +1,36 @@
+h1 {
+	color: #2F4F4F;
+}
+
+.info {
+	font-size: 15px;
+	text-align: center;
+}
+
+.crystal {
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 100px;
+}
+
+#red {
+	background-image: url('../images/red.jpg');
+}
+
+#blue {
+	background-image: url('../images/blue.jpg');
+}
+
+#green {
+	background-image: url('../images/green.jpg');
+}
+
+#yellow {
+	background-image: url('../images/yellow.jpg');
+}
+
+.tally {
+	font-size: 30px;
+	margin: 0px;
+}
